@@ -1,0 +1,14 @@
+subject_id,subjectname,credit,instructor,prerequisite,capacity,current_enrollment
+05501001,Basic Mathematics,3,Assoc. Prof. Somsak,,30,1
+05501002,Basic Physics,3,Assoc. Prof. Weerapong,5501001.0,25,0
+05501003,Basic Chemistry,3,Assoc. Prof. Sukanya,,30,0
+05501004,Basic Biology,3,Assoc. Prof. Pranee,,25,0
+05501005,Advanced Mathematics,4,Assoc. Prof. Somsak,5501001.0,20,0
+05501006,Advanced Physics,4,Assoc. Prof. Weerapong,5501002.0,20,0
+05501007,Analytical Chemistry,4,Assoc. Prof. Sukanya,5501003.0,15,0
+05501008,Introduction to Computer Science,3,Assoc. Prof. Chayapon,,60,0
+90691001,English for Communication,3,Prof. John,,40,0
+90691002,Ethics and Morality,2,Assoc. Prof. Sombat,,-1,0
+90691003,Art and Music,2,Assoc. Prof. Suntree,,25,0
+90691004,Systems Thinking,3,Assoc. Prof. Prasit,,-1,0
+90691005,Introduction to Chinese,3,Prof. Liu,,20,20
